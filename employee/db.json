@@ -1,0 +1,12 @@
+{
+  "employee": [
+    {
+      "first_name": "ggfghfghfgh",
+      "last_name": "fghfghfgh",
+      "email": "Sdsdfs@gmail",
+      "contact_number": "090900",
+      "active": true,
+      "id": 1
+    }
+  ]
+}
